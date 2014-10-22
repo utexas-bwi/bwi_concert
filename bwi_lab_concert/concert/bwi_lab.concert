@@ -1,0 +1,4 @@
+<concert>
+    <launch title="concert:11311" package="bwi_lab_concert"
+            name="bwi_lab.launch" port="11311"/>
+</concert>

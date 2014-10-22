@@ -1,0 +1,4 @@
+- resource_name: bwi_lab_concert/admin
+- resource_name: bwi_lab_concert/patrol
+- resource_name: bwi_lab_concert/teleop
+
