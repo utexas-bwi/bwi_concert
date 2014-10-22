@@ -1,6 +1,7 @@
 <launch>
     <include file="$(find concert_master)/launch/concert_master.launch">
         <arg name="concert_name" value="BWI Lab Concert"/>
+        <arg name="concert_description" value="UTexas Building Wide Intelligence Concert."/>
         <arg name="services" value="bwi_lab_concert/bwi_lab.services"/>
         <arg name="conductor_auto_invite" value="true" />
         <arg name="conductor_local_clients_only" value="false" />
